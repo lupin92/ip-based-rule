@@ -1,6 +1,9 @@
 name: Update DNS Files
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
