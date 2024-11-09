@@ -4,7 +4,7 @@ import shutil
 import os
 
 # 配置下载 ID 和文件名
-file_id = '1htxJVlWebLRYfMiEJTFOFPJ_0qUcUKjy'
+file_id = '1BFz2Gluny5KtjzsS5sphkKbO0eAlNu1N'
 url_template = 'https://drive.usercontent.google.com/uc?id={file_id}&export=download'
 compressed_filename = 'file.gz'
 decompressed_filename = 'ipv4'
